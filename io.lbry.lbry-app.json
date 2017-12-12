@@ -82,7 +82,7 @@
                 {
                     "type": "file",
                     "only-arches": ["x86_64"],
-                    "url": "https://github.com/lbryio/lbry-app/releases/download/v0.18.2/LBRY_0.18.2_amd64.deb",
+                    "url": "https://github.com/lbryio/lbry-app/releases/download/v0.19.0/LBRY_0.19.0_amd64.deb",
                     "sha256": "792e22eea7a72d818009316fce1d1e312bb892adf644a29121a991bf6c5368af"
                 },
                 {
